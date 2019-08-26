@@ -131,7 +131,6 @@ nav div {
 
 .light nav {
   border-bottom: .1rem solid black;
-  transition: all 0s;
 }
 .light nav a {
   color: black;
